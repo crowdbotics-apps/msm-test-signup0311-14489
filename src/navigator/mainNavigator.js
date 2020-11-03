@@ -14,7 +14,7 @@ import SignupScreen113663Navigator from "../features/SignupScreen113663/navigato
 const AppNavigator = {
 
     //@BlueprintNavigationInsertion
-
+SignupScreen113663: { screen: SignupScreen113663Navigator }
     /** new navigators can be added here */
     SplashScreen: {
       screen: SplashScreen
